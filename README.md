@@ -1,9 +1,28 @@
 ## Welcome to my territory :)
 
 <h1 align="center">Hi 👋, I'm Moath Abed</h1>
-<h3 align="center">Junior Software Engineer</h3>
-
+<p>a fourth year student in computer science, following my passion to deep immerse in Software engineering by joining 42 school core curriculum,by
+ exploring tons of information about various technologies and programming languages like C, C++ and a lot more, by doing projects
+ like <b>Minishell</b> (creating the shell) Sharpened my low-level programming skills and system engineering.</p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Tools:</h3>
+<p><img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/9eff6732-e025-42c9-880e-4090ace2bb6b" /> <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/1f1fcbd8-d09d-416c-9c77-9f5ab14fc9b2" /> 
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/e33d83d9-b336-4ce7-ab8c-d131e87456c3" /> 
+ </p>
+ 
+<h3 align="left">Programming languages:</h3>
+<p><img width="52" height="28" alt="image" src="https://github.com/user-attachments/assets/d06f4014-4bcb-48d7-bb79-53c1760e3e75" /> <img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/5ba5c53a-888b-4d10-921c-f4e0cb959562" /> 
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/a61844c9-aa58-484f-8b40-d7d2df755ec9" />
+</p>
+
+<h3 align="left">Debugging tools:</h3>
+<p> <img width="113" height="28" alt="image" src="https://github.com/user-attachments/assets/f8cf15ec-f011-4343-8859-0a31251af5e4" /> <img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/58d7af84-bfab-48ef-859e-67e36b899f87" />
+</p>
+
+<p>Projects in progress :
+<ol>
+ <li> Minishell : Creasting a working Unix shell using C </li>
+ <li> Philosophers : simulating the memory-sharing between threads in the same process</li>
+</ol>
+</p>
