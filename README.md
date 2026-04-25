@@ -5,7 +5,7 @@
  exploring tons of information about various technologies and programming languages like C, C++ and a lot more, by doing projects
  like <b>Minishell</b> (creating the shell) Sharpened my low-level programming skills and system engineering.</p>
 </p>
-
+![snake gif](https://github.com/Moabed21/Moabed21/blob/output/github-snake.svg)
 <h3 align="left">Tools:</h3>
 <p><img width="68" height="28" alt="image" src="https://github.com/user-attachments/assets/9eff6732-e025-42c9-880e-4090ace2bb6b" /> <img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/1f1fcbd8-d09d-416c-9c77-9f5ab14fc9b2" /> 
 <img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/e33d83d9-b336-4ce7-ab8c-d131e87456c3" /> 
