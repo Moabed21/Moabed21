@@ -1,9 +1,8 @@
 ## Welcome to my territory :)
 
 <h1 align="center">Hi 👋, I'm Moath Abed</h1>
-<p>a fourth year student in computer science, following my passion to deep immerse in Software engineering by joining 42 school core curriculum,by
- exploring tons of information about various technologies and programming languages like C, C++ and a lot more, by doing projects
- like <b>Minishell</b> (creating the shell) Sharpened my low-level programming skills and system engineering.</p>
+<p>Junior AI Engineer| 42 Core Student
+AI & Backend Developer building agentic workflows, RAG's and AI pipelines from scratch (C/C++, Python, Docker).</p>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moabed21/Moabed21/output/github-snake-dark.svg">
